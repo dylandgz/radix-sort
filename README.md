@@ -1,4 +1,4 @@
-# Radix Sort with Unstable Sorting Subroutine - README
+# Radix Sort with Unstable Sorting Subroutine
 
 ## Introduction
 
