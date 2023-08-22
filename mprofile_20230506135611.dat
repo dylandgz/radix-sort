@@ -1,0 +1,2 @@
+CMDLINE /opt/anaconda3/envs/radixSortTesting/bin/python3.10 your_script_name.py
+MEM 0.218750 1683395771.0084

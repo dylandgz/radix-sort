@@ -1,0 +1,2 @@
+CMDLINE /opt/anaconda3/envs/radixSortTesting/bin/python3.10 memory_benchmark.py
+MEM 0.218750 1683394531.4259
