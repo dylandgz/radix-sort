@@ -17,7 +17,3 @@ The main focus of this study is on the modification of radix sort, where the sta
 ## Conclusion
 
 The modified radix sort algorithm with an unstable sorting subroutine offers insights into the mechanics of radix sort and its trade-offs between stability, time complexity, and memory usage. While this modification has the potential to optimize performance in specific scenarios, it comes with limitations, especially in terms of correctness when dealing with equal keys.
-
-This repository serves as a case study and a starting point for further exploration of hybrid approaches and alternative sorting subroutines to refine and expand the applicability of the modified radix sort algorithm.
-
-For any questions or further research, please refer to the provided source code and the paper's content.
